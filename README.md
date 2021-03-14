@@ -13,7 +13,7 @@ Run the file ```Calculator.java```
 
 ![git1](https://github.com/Yuksel-Can/Simple-GUI-Java-Calculator/blob/main/Calculator/gif/calculatorVideo.gif)
 ## Issues
-* I am waiting for all your help and support for application problems.
+I am waiting for all your help and support for application problems.
 
 ``` Her türlü yardım ve destekleriniz için Issues kısmına bekliyorum.```
 
