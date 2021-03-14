@@ -11,7 +11,7 @@ Run the file ```Calculator.java```
 <br/>
 ## Screenshots
 
-![git1](https://github.com/Yuksel-Can/Simple-GUI-Java-Calculator/blob/main/Calculator/gif/calculatorVideo.gif)
+![git1](https://github.com/Yuksel-Can/Simple-GUI-Java-Calculator/blob/main/Calculator/gif/calculatorVideo.gif?style=centerme)
 ## Issues
 I am waiting for all your help and support for application problems.
 
