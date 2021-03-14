@@ -21,5 +21,5 @@ Run the file ```Calculator.java```
 
 ## Screenshots
 
-![git1](https://user-images.githubusercontent.com/47951588/76163541-0a892d80-6158-11ea-9e4e-f1933ed950cd.jpg)
+![git1](https://github.com/Yuksel-Can/Simple-GUI-Java-Calculator/blob/main/Calculator/gif/calculatorVideo.gif)
 
